@@ -1,0 +1,70 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.ota{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+
+    
+}
+.bola{
+  width: 300px ;
+  height: 40px;
+  border-radius: 20px; 
+  background-color: red;
+  color: #fff;
+  margin-top: 20px;
+  
+}
+.rasm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 300px;
+  margin-top: 70px;
+}
+.bola2{
+  
+  width: 250px;
+  height: 150px;
+  background-color: black;
+  color: #fff;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+}
+.ota2{
+  display: flex;
+  gap: 50%;
+}
+.nevara{
+  width: 300px;
+  height: 110px;
+  background-color: greenyellow;
+  border: 3px solid rgb(162, 131, 254)
+  
+
+
+}
+.bola3{
+  display: flex;
+  background-color: red;
+  width: 450px;
+  height: 230px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: -30px;
+}
+.nevara1{
+  width: 300px;
+  height: 100px;
+  background-color: greenyellow;
+}
